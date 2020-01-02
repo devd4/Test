@@ -12,7 +12,7 @@ public class TestApplication {
 	@GetMapping("/hello")
 	public String hello() {
 		
-		return "Hello Devendra!!!, CICD is implemented";
+		return "<h1>Hello Devendra!!!, CICD is implemented</h1>";
 	}
 
 	public static void main(String[] args) {
