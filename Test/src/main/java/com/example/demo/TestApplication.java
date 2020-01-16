@@ -13,7 +13,7 @@ public class TestApplication {
 	public String hello() {
 		
 		return "<h1>Hello Devendra, Application deployed.<h1> "
-				+ "<h1> Runing on medium instance</h1>";
+				+ "<h1> CI is working fine.</h1>";
 	}
 
 	public static void main(String[] args) {
