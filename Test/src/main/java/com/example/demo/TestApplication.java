@@ -12,7 +12,7 @@ public class TestApplication {
 	@GetMapping("/hello")
 	public String hello() {
 		
-		return "<h1>Hello Devendra, Application deployed.</h1>";
+		return "<h1>Hello Devendra, Application deployed. Runing on medium instance</h1>";
 	}
 
 	public static void main(String[] args) {
