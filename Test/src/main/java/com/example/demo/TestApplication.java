@@ -13,7 +13,7 @@ public class TestApplication {
 	public String hello() {
 		
 		return "<h1>Hello, CICD Implmented."
-				+ "Thanks <h1> ";
+				+ "\n Thanks <h1> ";
 	}
 
 	public static void main(String[] args) {
