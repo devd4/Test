@@ -12,7 +12,7 @@ public class TestApplication {
 	@GetMapping("/hello")
 	public String hello() {
 		
-		return "<h1>Hello Devendra, CICD Implmented."
+		return "<h1>Hello, CI Is done."
 				+ "\n"
 				+ "    Thanks You.<h1> ";
 	}
