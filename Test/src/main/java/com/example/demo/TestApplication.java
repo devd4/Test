@@ -13,7 +13,6 @@ public class TestApplication {
 	public String hello() {
 		
 		return "<h1>Hello, CICD Implmented."
-				+ ""
 				+ "Thanks <h1> ";
 	}
 
