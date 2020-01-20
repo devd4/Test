@@ -12,9 +12,8 @@ public class TestApplication {
 	@GetMapping("/hello")
 	public String hello() {
 		
-		return "<h1>Hello, CI Is done."
-				+ "\n"
-				+ "    Thanks You.<h1> ";
+		return "<h1>Hello, CICD Is done.";
+				
 	}
 
 	public static void main(String[] args) {
